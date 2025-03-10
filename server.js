@@ -1,6 +1,6 @@
 const express = require('express');
 const mqtt = require('mqtt');
-const cors = require('cors'); 
+const cors = require('cors');
 
 const app = express();
 const port = 3000;
